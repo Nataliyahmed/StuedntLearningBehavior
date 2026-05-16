@@ -1,0 +1,462 @@
+Student_ID,Date of Birth,Age,Name,Gender,Course,Year_Of_Study,Attendance_Percentage,Study_Hours_Per_Day,Assignment_Submission_Rate ,Class_Participation_Score ,Internet_Usage_Hours ,Social_Media_Hours ,Sleep_Hours,Extracurricular_Activities ,Stress_Level ,Previous_GPA ,Fail_Risk 
+2022-310-156,1/24/2004,22,Mohd Saud,Male,B. Tech,2022,53,7,93.00%,74.00%,10,11,6,No,Low,78,Medium
+2022-310-234,7/20/2002,23,Zain Ahmed,Male,B. Tech,2022,64,8,69.00%,64.00%,10,7,8,No,High,60,Low
+2022-310-151,11/20/2004,21,Mohd sadiq,Male,B. Tech,2022,73,7,69.00%,62.00%,7,8,8,No,High,70,Low
+2022-310-137,2/20/2003,23,Mohd Farhaz,Male,B. Tech,2022,90,7,83.00%,70.00%,7,11,8,Yes,High,80,Low
+2022-310-039,8/19/2004,21,Arish Ansari,Male,B. Tech,2022,49,7,74.00%,69.00%,10,12,7,No,Medium,75,Medium
+2022-310-114,01-11-2005,21,Misbah Al Sayeed,Male,B. Tech,2022,20,8,77.00%,86.00%,7,12,5,No,High,72,Low
+2022-310-136,10/31/2003,22,Mohd Faiyz,Male,B. Tech,2022,85,8,68.00%,81.00%,10,11,6,No,High,70,Medium
+2022-310-141,5/26/2003,22,Mohd aquib malik,Male,B. Tech,2022,34,7,90.00%,64.00%,8,9,8,No,Low,79,Low
+2022-310-182,02-01-2005,21,Rajdeep,Male,B. Tech,2022,97,6,70.00%,71.00%,9,9,7,No,Low,60,Low
+2022-310-196,10/20/2004,21,Saif Akhtar Khan,Male,B. Tech,2022,31,7,82.00%,74.00%,8,8,6,Yes,Low,76,Medium
+2022-310-168,9/25/2004,21,Nazia,Female,B. Tech,2022,34,8,65.00%,85.00%,7,6,6,Yes,Low,78,Low
+2022-310-152,12-02-2003,22,Mohd Samar arzoo,Male,B. Tech,2022,68,8,97.00%,73.00%,10,7,6,No,Low,70,Medium
+2022-310-135,9/25/2004,21,Mohd Adnan,Male,B. Tech,2022,72,8,76.00%,79.00%,10,12,5,No,Low,80,Low
+2022-310-161,09-05-2003,22,Monazzah Shaheen,Female,B. Tech,2022,51,7,93.00%,79.00%,9,6,7,No,Low,86,Low
+2024-557-015,03-01-2003,23,Mohmmad Musaib,Male,M.Tech,2024,53,8,81.00%,79.00%,9,12,5,No,Low,86,Medium
+2023-301-005,06-04-2005,20,ABHAY VEER SINGH RATHOUR,Male,BCA,2023,81,8,61.00%,63.00%,8,8,8,Yes,Low,75,Low
+2022-310-058,2/24/2005,21,Elhaan Daud,Male,B. Tech,2022,36,8,88.00%,82.00%,9,7,8,No,Medium,78,Low
+2024-501-040,12/27/2003,22,Iqra Ilyas,Female,MCA,2024,38,7,84.00%,98.00%,7,9,8,No,High,85.5,Low
+2024-557-009,9/24/2002,23,Humam Khan,Female,M.Tech,2024,48,8,71.00%,61.00%,7,8,8,Yes,Medium,80,Medium
+2023-354-034,4/30/2005,20,Abdul Aahad Abdul Kadir Shaikh,Male,B.Sc.,2023,90,8,77.00%,84.00%,8,10,8,Yes,High,75,Medium
+2022-310-220,2/25/2002,24,Syed Afseh Ehsani,Male,B. Tech,2022,51,7,85.00%,93.00%,9,8,6,No,Medium,78,Medium
+2024-510-006,4/26/2001,24,Shahnawaz abedin,Male,M.Tech,2024,62,7,84.00%,83.00%,8,6,8,Yes,Low,71,Low
+2025-501-018,01-01-2005,21,Mohd Azhar,Male,MCA,2025,37,8,85.00%,80.00%,7,9,8,Yes,Medium,73,Medium
+2024-501-027,2/14/2003,23,Aman Khan,Male,MCA,2024,88,7,76.00%,76.00%,9,10,6,Yes,Low,83,Low
+2024-501-065,11/19/2000,25,Mohd Ibad Aslam Sani,Male,MCA,2024,22,7,81.00%,90.00%,8,9,7,No,Low,62,Low
+2022-310-097,1/30/2004,22,Maira Aslam,Female,B. Tech,2022,25,7,85.00%,86.00%,9,9,7,No,High,78,Medium
+2024-501-056,06-02-2001,24,Jeremiah Francis,Male,MCA,2024,20,6,94.00%,66.00%,10,7,7,Yes,Medium,74,Medium
+2022-310-042,6/26/2004,21,Arshad Faraz,Male,B. Tech,2022,56,6,71.00%,74.00%,9,9,6,No,Medium,75,Low
+2022-310-003,02-10-2004,22,AATIF JALAL KHAN,Male,B. Tech,2022,94,8,93.00%,93.00%,8,7,5,No,Medium,77,Medium
+2022-310-069,2/23/2003,23,Haider Abbas,Male,B. Tech,2022,48,6,85.00%,69.00%,9,12,6,No,High,72,Medium
+2022-310-046,1/30/2005,21,Aryan Raj Verma,Male,B. Tech,2022,31,6,84.00%,63.00%,10,8,7,No,Medium,75,Medium
+2022-310-177,10/28/2003,22,Pooja Jha,Female,B. Tech,2022,79,7,79.00%,97.00%,9,9,8,Yes,High,92,Low
+2024-501-037,07-10-2002,23,Shoib Ahmad,Male,MCA,2024,67,7,98.00%,63.00%,7,7,7,Yes,High,84.2,Medium
+2023-301-020,2/16/2005,21,Amir Hussain,Male,BCA,2023,33,6,66.00%,73.00%,7,6,5,Yes,High,63,Medium
+2022-310-186,05-02-2004,21,Reyaz Ali Khan,Male,B. Tech,2022,69,7,81.00%,74.00%,10,9,6,No,Medium,60,Medium
+2022-310-007,03-11-2003,23,Abdur Rahman,Male,B. Tech,2022,45,6,81.00%,81.00%,10,9,8,No,High,87,Low
+2024-501-031,7/28/2003,22,Burhan Uzzama,Male,MCA,2024,37,7,73.00%,93.00%,7,12,7,Yes,High,79,Low
+2024-501-046,01-03-2001,25,Ilma,Female,MCA,2024,60,8,80.00%,61.00%,7,9,6,No,Medium,80,Low
+2022-310-032,2/25/2002,24,Ammar Haider,Male,B. Tech,2022,76,8,94.00%,64.00%,7,8,6,No,Medium,80,Medium
+2022-310-190,07-04-2004,21,Rumman Firdos,Male,B. Tech,2022,39,8,88.00%,84.00%,8,8,7,Yes,Medium,78,Medium
+2023-301-031,08-02-2005,20,Aysha Perween,Female,BCA,2023,100,6,84.00%,93.00%,10,7,5,Yes,Medium,85,Medium
+2022-350-021,8/30/2003,22,Mohd Umar Farooq,Male,B. Tech,2022,69,8,92.00%,82.00%,9,7,7,Yes,Medium,80,Low
+2022-310-112,05-05-2003,22,Md Shamim Shamshad,Male,B. Tech,2022,53,8,98.00%,89.00%,10,6,5,Yes,Low,81.7,Low
+2022-310-159,7/22/2003,22,Mohd Zubair,Male,B. Tech,2022,21,7,63.00%,98.00%,7,12,8,Yes,Low,80,Medium
+2022-350-009,03-02-2004,22,Ayush kumar Jha,Male,B. Tech,2022,43,7,79.00%,62.00%,8,10,6,No,Low,89,Medium
+2024-501-049,07-03-2002,23,Mohd Nawaz Khan,Male,MCA,2024,54,6,60.00%,71.00%,8,8,6,Yes,Medium,66,Low
+2024-501-058,09-09-2003,22,Heena Shaikh,Female,MCA,2024,55,6,61.00%,69.00%,10,7,6,Yes,High,67.71,Low
+2022-310-034,7/17/2003,22,Angella Sarfuddin,Female,B. Tech,2022,30,6,85.00%,62.00%,8,12,5,No,High,87,Medium
+2024-501-055,01-12-2003,23,Abhishek Kumar Singh,Male,MCA,2024,28,6,96.00%,97.00%,8,7,7,No,High,89.3,Low
+2023-304-024,3/20/2005,21,Arsalan Ghazi,Male,BCA,2023,59,6,76.00%,93.00%,8,7,7,Yes,High,82,Low
+2024-582-007,2/25/2003,23,Yukti Sabikhi,Female,M.Sc.,2024,20,8,83.00%,95.00%,9,10,8,No,Medium,79,Low
+2024-501-028,11/25/2001,24,Md Saquib Ansari,Male,MCA,2024,24,6,88.00%,76.00%,10,9,6,Yes,Medium,84.21,Low
+2022-310-189,9/20/2004,21,Rumaisa Sabi,Female,B. Tech,2022,94,8,98.00%,95.00%,7,10,6,No,Low,84,Medium
+2023-301-073,04-06-2005,21,Mohammad shaad,Male,BCA,2023,28,7,60.00%,87.00%,10,12,5,No,Low,70,Low
+2022-350-016,08-06-2004,21,Md Rooshan Salim,Male,B. Tech,2022,73,8,71.00%,67.00%,8,10,6,Yes,Medium,72,Medium
+2022-310-047,04-01-2004,22,Asghar abbas,Male,B. Tech,2022,64,6,93.00%,78.00%,9,11,7,No,Medium,72,Low
+2022-354-043,03-09-2005,21,Warda Aamir,Female,B.Sc.,2022,54,7,70.00%,85.00%,8,10,5,Yes,Medium,72,Low
+2023-301-113,2/15/2004,22,Priyanshu Kumar,Male,BCA,2023,79,7,63.00%,65.00%,10,8,5,Yes,Low,76,Medium
+2022-350-34,2/22/2005,21,Osama Shabih,Male,B. Tech,2022,37,7,87.00%,87.00%,8,10,7,No,Low,75,Low
+2023-301-146,2/22/2005,21,Syed Mohammad Ali Mazhar,Male,BCA,2023,68,6,90.00%,80.00%,10,9,7,No,Low,75,Medium
+2023-301-034,10/19/2005,20,Charu,Female,BCA,2023,21,6,68.00%,79.00%,8,7,6,No,Medium,80,Low
+2023-301-136,1/22/2005,21,Shaik Ransom,Male,BCA,2023,79,8,65.00%,73.00%,8,8,7,No,Low,91,Low
+2023-301-158,10/21/2005,20,Zaid Ahmed,Male,BCA,2023,83,7,67.00%,98.00%,10,12,6,Yes,Low,86,Medium
+2023-301-109,9/16/2006,19,Noor Ali,Male,BCA,2023,36,6,87.00%,94.00%,7,12,7,Yes,High,70,Low
+2022-310-147,8/27/2003,22,Mohd Hamid Akhtar Khan,Male,B. Tech,2022,94,7,76.00%,64.00%,9,10,6,No,Low,74,Medium
+2024-501-043,6/26/2003,22,Zaid Ahmad Khan,Male,MCA,2024,33,7,65.00%,65.00%,10,11,5,No,Low,77,Low
+2022-310-184,7/17/2003,22,Rashad Nazir Siddiqui,Male,B. Tech,2022,46,6,91.00%,88.00%,9,12,8,Yes,Low,70,Medium
+2024-582-003,1/25/2003,23,Ansha Ali,Female,M.Sc.,2024,70,7,97.00%,84.00%,9,6,5,No,Low,68,Medium
+2023-301-123,10-03-2002,23,Safaq kalim,Female,BCA,2023,29,6,89.00%,89.00%,7,6,6,Yes,High,74.33,Medium
+2022-350-031,12/15/2003,22,Musira Khalid,Female,B. Tech,2022,48,7,89.00%,64.00%,7,6,7,Yes,Low,71.9,Medium
+2023-301-126,04-12-2003,22,Sana praween,Female,BCA,2023,26,6,73.00%,92.00%,10,12,8,No,Medium,74,Low
+2023-301-107,2/17/2005,21,Nasir Hussain,Male,BCA,2023,85,6,76.00%,95.00%,9,9,6,Yes,High,83,Low
+2022-310-128,06-07-2002,23,Mohammad Fardeen,Male,B. Tech,2022,58,6,60.00%,81.00%,8,12,5,Yes,Medium,70,Medium
+2022-310-104,12/28/2001,24,Md akhlad hussain,Male,B. Tech,2022,85,6,62.00%,68.00%,7,12,7,Yes,Medium,82,Low
+2024-582-004,3/22/2002,24,Sameen Masroor,Female,M.Sc.,2024,43,6,84.00%,83.00%,7,7,6,Yes,Low,79,Medium
+2022-310-014,11/20/2003,22,Adnan,Male,B. Tech,2022,53,8,91.00%,86.00%,9,9,6,Yes,Medium,70,Medium
+2023-301-037,11/28/2003,22,Fatima Namra,Female,BCA,2023,91,7,75.00%,88.00%,8,7,5,Yes,Low,78,Low
+2023-301-142,12-05-2004,21,Suhail,Male,BCA,2023,96,8,92.00%,74.00%,7,7,6,Yes,Medium,69.3,Low
+2024-501-004,10-09-2001,24,Fauzy Iraqi,Female,MCA,2024,72,6,96.00%,93.00%,10,9,7,No,Low,73.04,Medium
+2024-582-014,09-11-2002,23,Sowmya Jha,Female,M.Sc.,2024,96,8,79.00%,79.00%,10,11,7,No,High,76,Low
+2024-557-001,2/16/2001,25,Irna Masood,Female,M.Tech,2024,28,7,79.00%,68.00%,7,10,5,No,Low,93,Medium
+2024-582-013,03-09-2004,22,Anshika Singh,Female,M.Sc.,2024,40,7,76.00%,96.00%,8,12,7,Yes,Medium,73,Low
+2023-301-076,11-03-2004,21,Adnan khan,Male,BCA,2023,32,8,75.00%,83.00%,9,10,6,Yes,Low,70,Low
+2024-501-047,4/17/2002,23,MD KHALID SAIFULLAH,Male,MCA,2024,95,7,91.00%,86.00%,9,6,8,Yes,Low,78,Medium
+2022-310-123,01-06-2000,26,Mohammad Amaan Ullah Siddique,Male,B. Tech,2022,41,8,85.00%,75.00%,10,10,6,Yes,Medium,73,Medium
+2024-583-002,7/29/2000,25,Ahmar Hassan,Male,M.Sc.,2024,53,8,85.00%,90.00%,10,8,6,Yes,High,60,Low
+2024-582-005,21-12-2002,23,Chhavi Dudeja,Female,M.Sc.,2024,47,8,78.00%,70.00%,10,9,5,No,Low,85,Low
+2023-301-086,12-07-2005,20,Mohd Raahim Ansari,Male,BCA,2023,83,6,96.00%,94.00%,10,6,6,No,Low,86,Medium
+2023-391-119,08-11-2002,23,SaadullahKhan,Male,BCA,2023,48,6,76.00%,61.00%,9,6,8,No,High,60,Medium
+2023-354-016,12/16/2003,22,Laiba Zeeai,Female,B.Sc.,2023,99,7,74.00%,98.00%,7,10,6,Yes,High,77,Medium
+2022-310-019,7/22/2004,21,Ahad Nadeem,Male,B. Tech,2022,87,8,89.00%,65.00%,9,11,6,Yes,Low,79,Low
+2024-582-006,8/29/2004,21,Amish mishra,Male,M.Sc.,2024,62,7,72.00%,73.00%,8,7,7,No,Low,71.2,Low
+2023-301-153,04-10-2005,21,Tariqul Amin,Male,BCA,2023,76,8,83.00%,62.00%,7,11,5,No,Medium,84,Low
+2023-301-152,1/23/2003,23,Tarang anand,Male,BCA,2023,100,6,93.00%,60.00%,7,6,6,Yes,Medium,68,Low
+2022-310-098,11-06-2004,21,Manya Gupta,Female,B. Tech,2022,73,6,72.00%,63.00%,8,8,7,No,Low,70,Low
+2022-310-157,04-10-2004,22,Mohd Taha Saleem,Male,B. Tech,2022,92,8,93.00%,76.00%,9,12,7,Yes,Medium,81.8,Medium
+2022-310-053,12/25/2002,23,Bashar Alam,Male,B. Tech,2022,67,7,78.00%,80.00%,7,7,5,Yes,Low,73,Medium
+2023-301-137,01-12-2005,21,Shamshad,Male,BCA,2023,40,7,65.00%,88.00%,10,10,8,Yes,Medium,85,Medium
+2022-310-205,01-05-2005,21,Seema Khanam,Female,B. Tech,2022,98,7,87.00%,84.00%,7,6,5,No,Medium,93,Medium
+2023-301-042,9/30/2005,20,Hayat ali ansari,Male,BCA,2023,85,8,81.00%,70.00%,8,11,8,No,Low,70,Medium
+2022-310-170,02-02-2003,23,Nehal Ahmad,Male,B. Tech,2022,67,7,89.00%,64.00%,8,8,6,No,Medium,80,Medium
+2022-310-204,2/16/2005,21,Sarim hasan,Male,B. Tech,2022,89,6,86.00%,87.00%,8,10,7,No,High,70,Low
+2022-310-111,12-02-2002,23,Md Ryan Aatif,Male,B. Tech,2022,24,8,76.00%,64.00%,8,12,5,Yes,Low,70,Medium
+2022-310-092,7/13/2002,23,Kunal Sha6,Male,B. Tech,2022,96,6,93.00%,71.00%,7,10,5,Yes,Low,75,Low
+2022-310-127,6/26/2004,21,Mohammad faaz,Male,B. Tech,2022,35,7,75.00%,82.00%,9,11,8,No,Medium,72,Medium
+2022-350-012,10-09-2004,21,Hamza Alam,Male,B. Tech,2022,67,7,68.00%,93.00%,10,7,6,No,High,80,Low
+2022-310-195,12/17/2004,21,Sahil Saifi,Male,B. Tech,2022,79,6,66.00%,76.00%,8,7,6,Yes,Medium,65,Medium
+2023-208-027,3/28/2004,22,Tuba Fatima,Female,B. Tech,2023,85,8,71.00%,85.00%,10,10,7,No,High,78,Low
+2023-301-090,10/25/2005,20,Mohd Saif Imam,Male,BCA,2023,26,8,83.00%,90.00%,7,6,6,No,High,62,Low
+2023-301-134,08-07-2005,20,Shahvez raza siddiqui,Male,BCA,2023,75,8,66.00%,91.00%,8,12,5,No,Medium,73,Low
+2023-301-062,9/21/2006,19,Modassir hussain,Male,BCA,2023,65,7,73.00%,89.00%,10,7,7,No,Low,76,Medium
+2022-310-084,01-11-2003,23,Isra Iqbal,Female,B. Tech,2022,54,7,60.00%,81.00%,8,11,5,No,Medium,80,Low
+2023-301-110,10-05-2005,20,Obaidullah Ayub,Male,BCA,2023,95,7,92.00%,86.00%,7,6,8,Yes,High,70,Medium
+2022-310-105,1/26/2005,21,Mr. Md Ataullah,Male,B. Tech,2022,94,8,60.00%,61.00%,9,11,6,No,High,84,Low
+2022-333-010,6/18/2004,21,Munazza Shabir,Female,B. Tech,2022,86,6,86.00%,75.00%,9,9,8,Yes,High,91,Low
+2023-301-127,3/14/2005,21,Sanaullah,Male,BCA,2023,32,6,64.00%,97.00%,8,7,7,Yes,Low,84.8,Medium
+2022-310-144,4/19/2002,23,MOHD AYAN AKHTAR,Male,B. Tech,2022,45,6,81.00%,80.00%,10,7,6,No,Low,82,Low
+2022-310-103,7/15/2003,22,Md Adil Raza,Male,B. Tech,2022,76,7,86.00%,96.00%,10,10,8,No,Medium,70,Medium
+2022-310-087,3/25/2005,21,Kartik Singh,Male,B. Tech,2022,84,7,67.00%,76.00%,10,9,7,Yes,Low,60,Medium
+2022-310-006,05-09-2003,22,Abdullah Tanzeem,Male,B. Tech,2022,72,8,97.00%,86.00%,8,12,8,No,High,74,Low
+2022-350-033,9/17/2003,22,Ms Neelofar ali,Female,B. Tech,2022,40,8,68.00%,70.00%,8,11,5,Yes,Medium,82,Medium
+2022-310-067,09-04-2002,23,Haaris,Male,B. Tech,2022,89,7,97.00%,94.00%,7,9,6,No,Low,69,Medium
+2023-301-138,1/25/2003,23,Shazeb,Male,BCA,2023,86,8,81.00%,83.00%,8,11,8,No,Medium,71,Medium
+2022-310-080,10/20/2005,20,Ibrahim Rahman,Male,B. Tech,2022,54,7,77.00%,86.00%,9,11,8,Yes,Low,79.2,Medium
+2022-310-149,10/27/2004,21,MOHD MUNEER QURESHI,Male,B. Tech,2022,36,8,62.00%,96.00%,10,6,5,No,Low,68,Medium
+2022-310-132,04-07-2004,22,Mohammad Raza Abbas,Male,B. Tech,2022,89,7,86.00%,76.00%,10,10,7,Yes,Low,83,Low
+2022-310-139,01-05-2003,23,Mohd Sadiq,Male,B. Tech,2022,32,6,97.00%,96.00%,7,12,7,No,Low,70,Low
+2022-310-130,2/26/2002,24,Mohammad Hanzla Habib,Male,B. Tech,2022,67,8,67.00%,61.00%,10,10,7,No,Low,65,Low
+2023-301-132,6/29/2005,20,Sayra bano,Female,BCA,2023,39,7,62.00%,92.00%,7,10,6,No,Medium,83,Low
+2023-301-092,1/28/2003,23,Mohd Shariq,Male,BCA,2023,29,6,68.00%,84.00%,7,6,8,No,Medium,72,Medium
+2023-301-055,09-08-2005,20,MD MERAAZ,Male,BCA,2023,58,6,96.00%,98.00%,9,8,7,No,Medium,63,Low
+2023-301-145,12/18/2004,21,Syed Ahmad,Male,BCA,2023,65,8,98.00%,93.00%,8,12,7,Yes,Medium,78,Low
+2022-350-029,08-06-2004,21,Mohd Tabish,Male,B. Tech,2022,94,8,72.00%,60.00%,10,11,6,Yes,Medium,72,Medium
+2022-310-158,6/14/2004,21,Mohd Yasar,Male,B. Tech,2022,81,6,91.00%,77.00%,7,6,6,Yes,Medium,80,Medium
+2022-310-078,8/29/2003,22,Hussain Abbas,Male,B. Tech,2022,86,6,90.00%,95.00%,8,9,7,Yes,Low,70,Medium
+2022-310-005,9/23/2003,22,Abdullah Shamshad Khan,Male,B. Tech,2022,43,8,98.00%,68.00%,9,8,6,Yes,High,78,Low
+2022-310-073,9/23/2003,22,Hasan Dawar,Male,B. Tech,2022,29,7,62.00%,65.00%,8,6,8,Yes,Low,76,Medium
+2022-310-055,08-05-2004,21,Bushra Sherwani,Female,B. Tech,2022,95,7,90.00%,65.00%,10,10,5,Yes,High,81,Low
+2023-301-155,3/29/2005,21,Umar Intakhab,Male,BCA,2023,28,6,70.00%,92.00%,7,8,7,Yes,Low,75,Low
+2022-310-057,02-05-2005,21,Danish Rizwan,Male,B. Tech,2022,46,8,95.00%,79.00%,9,11,7,Yes,High,65,Low
+2024-582-016,12/23/2000,25,MD SOYEB AKHTAR KHAN,Male,M.Sc.,2024,58,8,96.00%,71.00%,9,11,8,No,Low,60.2,Low
+2022-310-011,08-02-2004,21,Abirah zaidi,Female,B. Tech,2022,48,8,87.00%,91.00%,8,12,7,Yes,High,65.26,Medium
+2022-310-024,2/22/2004,22,Aiman Siddiqui,Female,B. Tech,2022,43,7,77.00%,81.00%,10,11,8,No,Low,83,Medium
+2023-301-111,2/26/2005,21,Priya Chaudhary,Female,BCA,2023,95,7,75.00%,61.00%,9,7,7,Yes,Medium,85,Medium
+2023-301-157,02-07-2004,22,Waseem.malik,Male,BCA,2023,30,7,97.00%,63.00%,10,11,6,Yes,Low,85,Low
+2022-310-077,2/27/2004,22,Husain Yawar,Male,B. Tech,2022,64,7,65.00%,66.00%,8,7,7,No,Low,77,Medium
+2023-301-108,7/21/2005,20,Nida Khan,Female,BCA,2023,90,8,61.00%,93.00%,10,12,7,No,Medium,80,Low
+2022-310-030,02-11-2004,22,Ambiya Faisal,Female,B. Tech,2022,76,7,82.00%,72.00%,7,9,7,Yes,Low,81,Medium
+2022-310-016,10-08-2004,21,Afifah Kamal,Female,B. Tech,2022,96,8,81.00%,80.00%,9,7,6,No,High,87.12,Medium
+2022-310-203,12/23/2003,22,Sania Bushra,Female,B. Tech,2022,47,8,97.00%,93.00%,7,8,7,Yes,Medium,93,Low
+2022-350-002,02-11-2003,23,Adnan Ahmed,Male,B. Tech,2022,85,8,71.00%,65.00%,10,6,6,No,High,83,Low
+2023-301-097,7/31/2005,20,Monaz Naushad,Female,BCA,2023,55,6,90.00%,84.00%,9,11,5,Yes,High,78,Medium
+2023-301-014,07-11-2005,20,Amaan Ahmed,Male,BCA,2023,98,7,81.00%,85.00%,10,10,6,No,Medium,73,Low
+2024-582-012,03-01-2004,22,Mohammad Farhan Khan,Male,M.Sc.,2024,77,8,87.00%,62.00%,8,9,7,Yes,Low,62,Medium
+2022-310-206,05-10-2004,21,Seema Parveen Insha,Female,B. Tech,2022,26,7,87.00%,73.00%,10,10,7,Yes,Medium,93,Low
+2022-310-020,6/27/2001,24,Ahmad Kalim Siddiqui,Male,B. Tech,2022,68,6,72.00%,93.00%,8,11,7,No,High,75.2,Medium
+2023-301-143,10/20/2003,22,Sumit Kumar,Male,BCA,2023,73,6,88.00%,81.00%,8,9,5,Yes,Medium,88,Medium
+2022-310-064,2/22/2005,21,Farman Ahsan,Male,B. Tech,2022,27,6,81.00%,68.00%,8,7,7,No,Low,77.33,Low
+2022-310-048,12-06-2002,23,Ashish Nayak,Male,B. Tech,2022,23,7,96.00%,81.00%,9,7,6,No,Low,72,Medium
+2022-310-030,2/24/2003,23,Aftab Hasan Mansoori,Male,B. Tech,2022,49,7,61.00%,74.00%,10,7,6,No,High,71,Medium
+2022-310-010,1/22/2005,21,Abir Hayat khan,Male,B. Tech,2022,65,6,85.00%,81.00%,9,6,5,Yes,High,66,Medium
+2022-310-231,8/23/2004,21,Uzair Ahmad,Male,B. Tech,2022,60,6,78.00%,93.00%,9,11,5,Yes,Low,81,Medium
+2022-310-044,06-01-2003,22,Arslan Ahmad,Male,B. Tech,2022,31,8,61.00%,74.00%,8,6,6,No,Low,74.4,Medium
+2022-310-110,10/29/2003,22,MD NAYEEM,Male,B. Tech,2022,27,8,92.00%,60.00%,10,12,7,No,High,74.1,Medium
+2023-208-007,10-05-2004,21,Elma Tanveer,Female,B. Tech,2023,80,6,88.00%,71.00%,9,9,8,No,High,64,Low
+2022-310-236,4/30/2002,23,Zakiah Moin,Female,B. Tech,2022,30,7,72.00%,83.00%,9,7,6,No,Medium,76,Low
+2024-582-010,07-10-2001,24,Ahsan Jameel Khan,Male,M.Sc.,2024,25,7,86.00%,74.00%,8,7,7,No,Medium,74,Medium
+2022-310-001,10-12-2004,21,Aalish Ahmed,Male,B. Tech,2022,35,8,82.00%,71.00%,9,9,6,Yes,High,72.77,Medium
+2022-310-125,03-11-2004,22,Mohammad Ayaan Khan,Male,B. Tech,2022,67,8,88.00%,92.00%,7,11,8,Yes,Low,87.8,Medium
+2023-301-117,02-10-2005,21,Saad Khan,Male,BCA,2023,46,6,97.00%,65.00%,7,6,7,Yes,High,68,Medium
+2022-310-197,3/21/2004,22,Saif Ali,Male,B. Tech,2022,35,7,72.00%,62.00%,7,9,7,No,Low,76,Low
+2023-301-112,03-03-2005,21,Priyanka Chauhan,Female,BCA,2023,86,6,87.00%,74.00%,9,8,5,No,Medium,67,Medium
+2022-310-052,07-08-2003,22,Baquar Khatib,Male,B. Tech,2022,81,7,96.00%,88.00%,9,7,5,No,Low,58,Low
+2023-301-149,3/21/2004,22,Tamanun Nisha,Female,BCA,2023,42,8,69.00%,83.00%,10,9,8,No,Medium,77,Medium
+2023-301-021,10-11-2004,21,Amir Shamim,Male,BCA,2023,43,8,70.00%,85.00%,7,9,6,No,High,69.73,Low
+2022-310-007,03-11-2003,23,Abdur Rahman,Male,B. Tech,2022,31,7,76.00%,66.00%,8,9,6,No,High,82,Low
+2022-310-004,07-03-2004,21,Abdullah Khan,Male,B. Tech,2022,81,6,66.00%,86.00%,10,7,7,Yes,Low,68,Medium
+2022-310-066,1/28/2004,22,Fuzail Ahmad Khan,Male,B. Tech,2022,61,8,80.00%,94.00%,7,12,8,Yes,Low,85,Medium
+2023-208-017,03-05-2004,22,MOHAMMED ANAS IQBAL,Male,B. Tech,2023,96,8,88.00%,92.00%,8,6,5,No,Low,80,Medium
+2023-301-116,11/23/2004,21,Rimsha Nadeem,Female,BCA,2023,29,7,60.00%,90.00%,8,10,8,No,High,79.74,Medium
+2022-310-025,07-06-2003,22,Akram Ahmed khan,Male,B. Tech,2022,33,8,92.00%,60.00%,10,11,6,Yes,Low,75,Low
+2023-301-120,2/17/2003,23,Sadaf khan,Female,BCA,2023,32,8,61.00%,79.00%,8,12,8,No,Low,79,Medium
+2023-208-002,07-10-2002,23,Altamash khan,Male,B. Tech,2023,56,6,91.00%,89.00%,9,8,5,No,High,81.7,Medium
+2022-310-009,10/22/2004,21,Abhishek Mittal,Male,B. Tech,2022,94,8,93.00%,69.00%,7,12,7,Yes,Low,75,Low
+2022-310-224,10-08-2004,21,Syeda Uzma Imam,Female,B. Tech,2022,53,7,89.00%,75.00%,10,9,7,No,High,75,Low
+2023-208-011,02-08-2004,22,Md Junaid Anwar,Male,B. Tech,2023,82,7,87.00%,73.00%,10,8,6,No,High,81,Medium
+2022-310-030,02-11-2004,22,Ambiya Faisal,Female,B. Tech,2022,70,6,78.00%,85.00%,9,10,7,Yes,Medium,76,Low
+2024-501-009,10-03-2002,23,Rafia Amber,Female,MCA,2024,76,8,83.00%,68.00%,8,7,7,Yes,Low,69.94,Medium
+2022-310-008,4/30/2006,19,Abeer Ashfaque,Female,B. Tech,2022,29,7,87.00%,76.00%,10,11,5,No,High,83.41,Low
+2023-208-010,7/21/2003,22,Md Farhan Naushad,Male,B. Tech,2023,100,7,96.00%,83.00%,9,10,7,No,Medium,84.6,Medium
+2022-310-126,02-03-2003,23,Mohammad Eisa,Male,B. Tech,2022,94,7,92.00%,63.00%,7,11,7,No,Low,83,Low
+2022-310-030,02-11-2004,22,Ambiya Faisal,Female,B. Tech,2022,25,7,86.00%,91.00%,10,8,5,Yes,High,77,Medium
+2024-582-015,7/28/2002,23,Atifa Arshad,Female,M.Sc.,2024,88,7,74.00%,83.00%,7,6,6,No,Medium,77,Low
+2022-310-071,11-01-2003,22,Hamza Ahmed,Male,B. Tech,2022,78,7,69.00%,77.00%,7,10,7,No,Low,78.56,Low
+2022-310-094,6/20/2005,20,Mohamed Siddiq,Male,B. Tech,2022,45,7,77.00%,69.00%,8,7,6,Yes,Medium,76.76,Medium
+2024-501-008,12-02-2002,23,Akanksha Devgun,Female,MCA,2024,73,6,92.00%,87.00%,7,8,8,No,Low,89,Medium
+2022-310-076,10-07-2002,23,Hilal Mirza,Male,B. Tech,2022,61,6,91.00%,60.00%,8,8,5,No,Medium,75,Low
+2002-310-037,7/13/2003,22,Aqib baig,Male,B. Tech,2002,22,7,67.00%,80.00%,8,11,8,No,Low,64,Medium
+2022-310-140,4/15/2003,22,Mohd Akif,Male,B. Tech,2022,38,7,75.00%,64.00%,10,7,6,No,Medium,74,Low
+2022-310-026,10-10-2004,21,Alfishah Roshan,Female,B. Tech,2022,38,8,66.00%,68.00%,7,10,6,No,Medium,78,Medium
+2023-301-160,06-01-2002,23,Zeeshan Ansari,Male,BCA,2023,100,8,78.00%,70.00%,10,10,8,No,Medium,71,Low
+2023-301-144,02-10-2005,21,suraj singh adhikari,Male,BCA,2023,64,8,77.00%,60.00%,9,7,5,Yes,Medium,70,Low
+2022-310-101,9/17/2002,23,Mohd Sami Farooqui,Male,B. Tech,2022,55,7,91.00%,71.00%,9,12,8,No,High,70,Low
+2023-301-100,09-08-2005,20,Mohd suhail,Male,BCA,2023,91,7,94.00%,95.00%,9,8,7,Yes,Low,75,Low
+2023-301-154,4/18/2005,20,Umar,Male,BCA,2023,38,8,81.00%,80.00%,10,9,7,No,Medium,69,Medium
+2022-310-028,10-07-2004,21,Amaan Alam,Male,B. Tech,2022,97,8,71.00%,75.00%,8,11,8,No,Medium,65,Low
+2023-301-159,12/17/2003,22,Zaid choudhary,Male,BCA,2023,22,7,70.00%,66.00%,8,6,6,No,Medium,70,Low
+2024-501-073,8/16/2000,25,SALEH UMAR,Male,MCA,2024,92,7,64.00%,68.00%,8,9,6,No,Medium,78,Medium
+2022-310-038,4/16/2003,22,Areeb Ahmad Siddiqui,Male,B. Tech,2022,84,7,94.00%,76.00%,10,12,7,Yes,Medium,68,Medium
+2023-301-043,11/17/2004,21,Hiba Ahmed,Female,BCA,2023,93,7,92.00%,72.00%,9,12,5,Yes,High,79,Low
+2022-350-035,10-10-2004,21,Saad Anwar,Male,B. Tech,2022,93,8,64.00%,61.00%,9,8,5,Yes,Low,78,Low
+2024-501-072,1/18/2001,25,Nataliya Ahmed,Female,MCA,2024,64,7,72.00%,68.00%,9,11,6,Yes,High,86,Low
+2022-310-049,2/27/2003,23,AYESHA NAAZ,Female,B. Tech,2022,61,8,93.00%,71.00%,9,9,6,No,Medium,63,Low
+2023-301-091,04-01-2004,22,MOHD SHAMIM,Male,BCA,2023,48,6,81.00%,98.00%,9,9,7,No,High,70,Medium
+2022-310-081,11/15/2003,22,ILMA RAIS,Female,B. Tech,2022,45,6,60.00%,73.00%,9,7,7,Yes,Medium,74.1,Low
+2022-310-041,3/20/2004,22,ARKAN HUSSAIN,Male,B. Tech,2022,88,8,81.00%,64.00%,7,9,5,Yes,Medium,79,Low
+2024-557-011,6/26/2000,25,Kunwar Mohd Subhan Arif,Male,M.Tech,2024,57,6,81.00%,82.00%,7,12,7,Yes,Low,81,Medium
+2024-550-003,2/25/2002,24,Rukhsana Parveen,Female,M.Tech,2024,68,8,80.00%,79.00%,8,11,5,No,Low,86,Medium
+2022-350-007,4/16/2003,22,Ayan Khan,Male,B. Tech,2022,94,7,85.00%,68.00%,10,6,7,No,Medium,77,Low
+2022-310-129,9/20/2004,21,Mohammad Hamdan Gada,Male,B. Tech,2022,41,8,65.00%,86.00%,9,7,7,No,Low,67.92,Low
+2022-310-133,07-08-2003,22,Mohammad Zishan,Male,B. Tech,2022,83,7,90.00%,69.00%,10,12,5,Yes,High,76,Medium
+2022-310-040,5/13/2003,22,Arish Nawaz khan,Male,B. Tech,2022,22,6,98.00%,83.00%,7,10,7,Yes,High,70.6,Medium
+2024-501-001,4/24/2003,22,NISHAT ALAM ANSARI,Male,MCA,2024,74,7,87.00%,78.00%,10,10,5,Yes,Medium,77,Low
+2024-501-018,01-01-2002,24,Mohd Azhar,Male,MCA,2024,90,8,82.00%,92.00%,7,11,8,Yes,Low,74,Low
+2024-501-042,6/13/2004,21,Mohd Osama,Male,MCA,2024,79,7,68.00%,70.00%,8,11,5,No,Medium,75.3,Low
+2024-550-001,2/20/2000,26,Owais Ali,Male,M.Tech,2024,28,7,95.00%,86.00%,10,6,8,No,Low,70,Low
+2024-557-005,01-05-1991,35,Md mubarak Karim,Male,M.Tech,2024,88,8,94.00%,97.00%,10,12,5,Yes,Medium,74,Medium
+2024-501-067,08-01-2003,22,Anam khan,Female,MCA,2024,26,8,67.00%,66.00%,9,11,7,No,High,67,Low
+2024-501-002,1/26/2004,22,Muskan,Female,MCA,2024,27,7,84.00%,76.00%,9,6,8,No,High,72,Low
+2024-501-068,07-11-1996,29,Waiez Hasan,Male,MCA,2024,83,8,63.00%,75.00%,10,6,5,Yes,High,60,Low
+2024-501-016,10-02-1999,26,Quaseem akhtar,Male,MCA,2024,39,6,86.00%,77.00%,7,12,7,No,High,70,Low
+2024-501-012,02-12-2002,24,MD RIZWAN ALAM,Male,MCA,2024,89,8,70.00%,80.00%,8,11,7,Yes,Low,71,Medium
+2022-350-024,07-06-2004,21,Mohd Bilal,Male,B. Tech,2022,68,7,78.00%,89.00%,10,6,7,No,Low,63,Medium
+2022-310-223,1/19/2005,21,Syed Md Zaid Rizvi,Male,B. Tech,2022,90,7,61.00%,90.00%,10,11,8,No,High,83,Low
+2022-310-208,5/30/2004,21,Shahbaj Ahmad,Male,B. Tech,2022,34,6,83.00%,63.00%,9,7,8,Yes,Medium,86.4,Low
+2022-310-223,1/19/2005,21,Syed Md Zaid Rizvi,Male,B. Tech,2022,51,6,84.00%,90.00%,8,9,8,No,High,83,Low
+2022-310-059,08-01-2003,22,Faisal Iqbal,Male,B. Tech,2022,45,8,83.00%,87.00%,7,6,7,No,High,89,Low
+2024-501-051,11/28/1996,29,Shahrukh Mansury,Male,MCA,2024,88,7,70.00%,73.00%,10,9,5,No,Low,61.5,Low
+2022-310-013,02-10-2004,22,Adi Khalid,Male,B. Tech,2022,85,6,65.00%,66.00%,10,12,7,Yes,Low,69,Low
+2022-310-031,11-01-2004,21,Amir Hamza,Male,B. Tech,2022,100,7,93.00%,60.00%,10,8,8,No,High,79,Medium
+2022-350-032,4/20/2002,23,Najeeb Ahmad,Male,B. Tech,2022,42,7,76.00%,94.00%,10,10,8,No,High,72,Medium
+2022-310-045,16-Aug-04,21,aryaman vasudeva,Male,B. Tech,2022,53,8,60.00%,81.00%,10,6,5,Yes,Medium,75,Medium
+2022-310-043,04-01-2001,25,ARSHLAN,Male,B. Tech,2022,86,8,69.00%,66.00%,8,12,8,No,Low,70.3,Low
+2024-501-041,1/20/2000,26,Jenifer Bano,Female,MCA,2024,66,7,61.00%,87.00%,10,8,5,No,Low,74,Medium
+2022-310-090,3/17/2004,22,Khushi Ali,Female,B. Tech,2022,100,8,70.00%,61.00%,10,12,6,Yes,Low,83,Medium
+2022-310-062,2/26/2004,22,Farhan Maquesood,Male,B. Tech,2022,47,6,67.00%,62.00%,10,6,6,No,Medium,73,Medium
+2022-310-2023,8/13/2003,22,Ahsan Javed,Male,B. Tech,2022,25,7,60.00%,66.00%,10,6,6,No,High,63,Low
+2024-501-052,01-02-2001,25,MOHD ZAID,Male,MCA,2024,51,6,95.00%,77.00%,9,11,5,No,Medium,58.66,Medium
+2022-350-030,09-04-2002,23,Mohd Waize Ali Khan,Male,B. Tech,2022,41,6,93.00%,93.00%,9,11,5,Yes,Low,72,Medium
+2024-557-002,8/23/2002,23,Sagar Bidhuri,Male,M.Tech,2024,73,6,62.00%,69.00%,7,10,5,No,Medium,71,Low
+2022-310-154,01-05-2003,23,MOHD SAQUIB,Male,B. Tech,2022,42,7,89.00%,88.00%,7,10,8,Yes,High,78,Medium
+2023-301-040,7/21/2005,20,Hasan Masood Ahmed,Male,BCA,2023,20,7,71.00%,70.00%,10,6,8,Yes,Low,81,Low
+2022-350-020,3/20/2004,22,Mohammad Asad,Male,B. Tech,2022,30,7,61.00%,69.00%,8,7,5,Yes,High,76,Low
+2023-301-151,12/28/2005,20,Tarab Fatma,Female,BCA,2023,53,7,94.00%,77.00%,7,10,6,No,Medium,85,Low
+2022-310-227,5/30/2003,22,Ujjawal Yatharth,Male,B. Tech,2022,74,7,76.00%,61.00%,10,9,6,Yes,Medium,76,Medium
+2022-333-012,7/24/2004,21,Paarth Sethi,Male,B. Tech,2022,57,6,91.00%,87.00%,10,7,7,Yes,Medium,76,Medium
+2023-301-147,5/15/2004,21,Syed raza Haider,Male,BCA,2023,77,7,90.00%,83.00%,7,12,7,No,Low,67,Low
+2022-310-063,12/27/2004,21,Farjad Zeya,Male,B. Tech,2022,46,6,81.00%,79.00%,10,6,5,Yes,Low,72,Low
+2022-310-022,9/23/2004,21,Ahmad Zamaan,Male,B. Tech,2022,78,8,69.00%,97.00%,8,10,7,Yes,Low,64,Medium
+2022-350-008,9/14/2004,21,Aynul Ali,Male,B. Tech,2022,59,8,62.00%,89.00%,7,11,5,Yes,High,73,Low
+2024-501-025,1/23/2003,23,Alina Jiboy,Female,MCA,2024,75,6,63.00%,92.00%,8,9,7,Yes,High,86,Medium
+2023-301-065,8/17/2005,20,Mohammad Abuzar,Male,BCA,2023,54,7,91.00%,72.00%,10,9,5,No,High,73,Low
+2023-301-088,02-06-2005,21,Mohd sadan khan,Male,BCA,2023,42,6,80.00%,89.00%,9,8,7,Yes,Low,78,Medium
+2023-354-001,04-01-2005,21,Aamir Khan,Male,B.Sc.,2023,44,7,69.00%,91.00%,10,10,5,No,High,80,Low
+2022-350-017,2/24/2001,25,Md Waliullah,Male,B. Tech,2022,52,7,64.00%,71.00%,10,7,8,No,Low,74,Low
+2023-301-071,10-09-2003,22,MOHAMMAD HUSSAIN,Male,BCA,2023,69,6,90.00%,74.00%,8,7,5,No,Low,80,Low
+2022-310-068,01-Jan-04,22,Haidar Raza,Male,B. Tech,2022,26,7,62.00%,63.00%,7,9,5,No,Medium,72,Low
+2023-301-104,3/24/2003,23,Nabil Arshad,Male,BCA,2023,33,8,83.00%,89.00%,7,12,7,Yes,High,74,Medium
+2023-301-056,11/29/2002,23,Mohd saad farooqui,Male,BCA,2023,32,8,82.00%,94.00%,7,6,8,Yes,Low,89,Medium
+2024-550-008,5/21/2001,24,Md Junaid Alam,Male,M.Tech,2024,85,7,88.00%,85.00%,9,9,8,No,High,73,Medium
+2022-350-027,11/18/2004,21,Mohd Fahad Afaque,Male,B. Tech,2022,30,6,85.00%,71.00%,7,11,6,Yes,High,79.2,Medium
+2022-310-012,3/18/2005,21,Abubakar,Male,B. Tech,2022,29,7,60.00%,63.00%,9,6,7,Yes,Medium,70,Medium
+2022-310-063,12/27/2004,21,Farjad Zeya,Male,B. Tech,2022,95,8,66.00%,82.00%,10,6,5,No,Low,72,Low
+2022-350-013,11-07-2004,21,Himanshu Rawat,Male,B. Tech,2022,69,6,65.00%,79.00%,7,11,6,No,Medium,90,Medium
+2023-301-068,02-05-2003,23,Mohammad ayaz ramish,Male,BCA,2023,69,8,75.00%,79.00%,9,6,7,No,Low,80,Low
+2024-501–03,07-11-2002,23,Madiha,Female,MCA,2024,61,7,97.00%,92.00%,8,9,8,Yes,Low,88,Medium
+2023-301-052,3/23/2005,21,Maaz ahmed,Male,BCA,2023,94,7,83.00%,87.00%,7,8,7,Yes,Medium,63,Medium
+2022-310-035,03-01-2005,21,Anirudh S. Rana,Male,B. Tech,2022,30,8,78.00%,80.00%,9,10,7,Yes,Low,82,Low
+2023-301-008,1/16/2002,24,Ahtesham Munees,Male,BCA,2023,45,7,61.00%,70.00%,8,10,8,Yes,Medium,78,Medium
+2023-301-025,8/26/2005,20,Ashhar Ali,Male,BCA,2023,39,7,72.00%,95.00%,8,10,6,Yes,Medium,83,Low
+2022-310-029,12/30/2004,21,Amaanul Haque,Male,B. Tech,2022,51,7,63.00%,95.00%,9,11,6,No,Medium,74.8,Medium
+2022-310-003,1/19/2003,23,Abdul Kabir,Male,B. Tech,2022,37,7,96.00%,86.00%,8,6,5,No,Medium,71,Medium
+2023-354-029,3/21/2005,21,Nafisha khanam,Female,B.Sc.,2023,62,8,64.00%,79.00%,7,11,7,No,Medium,81,Low
+2024-550-006,4/26/2000,25,Khalid Khan,Male,M.Tech,2024,85,7,97.00%,66.00%,9,10,7,Yes,High,96,Medium
+20222-310-115,07-01-2003,22,Mohammad Anas,Male,B. Tech,2022,33,8,72.00%,67.00%,8,8,7,Yes,Low,65,Low
+2023-301-066,9/19/2005,20,Mohammad Aman Alam,Male,BCA,2023,26,7,87.00%,75.00%,9,12,8,No,Low,75,Low
+2022-310-226,03-01-2003,23,Tanweer Alam,Male,B. Tech,2022,99,6,94.00%,89.00%,8,9,8,No,Medium,80,Low
+2022-310-181,2/19/2001,25,Raja,Male,B. Tech,2022,39,6,63.00%,94.00%,9,7,5,Yes,Low,88,Low
+2022-310-209,5/14/2001,24,Shahbaz ali,Male,B. Tech,2022,20,6,98.00%,92.00%,9,8,7,No,High,74,Medium
+2023-301-041,4/30/2003,22,Haseeb Ahmad,Male,BCA,2023,42,6,83.00%,76.00%,9,8,5,Yes,High,70,Medium
+2022-310-039,8/19/2004,21,Arish Ansari,Male,B. Tech,2022,74,6,96.00%,77.00%,10,6,7,No,High,72,Low
+2022-310-050,10-04-2004,21,Ayush wardhan,Male,B. Tech,2022,26,8,68.00%,64.00%,8,10,6,No,High,70.75,Medium
+2022-310-060,9/20/2004,21,Faizan Anwar,Male,B. Tech,2022,53,8,79.00%,90.00%,10,8,8,Yes,Low,61,Medium
+2022-310-207,01-01-2005,21,Shafia Ameeruddin,Female,B. Tech,2022,80,8,95.00%,79.00%,9,9,6,No,Low,83.7,Medium
+2022-310-119,12/27/2004,21,Mohammad Maazullah,Male,B. Tech,2022,98,7,80.00%,73.00%,9,6,8,No,Low,60,Low
+2022-310-160,12-06-2004,21,Monazza Shamsi,Female,B. Tech,2022,95,8,85.00%,61.00%,9,7,6,Yes,Low,87.21,Medium
+2022-310-074,12-08-2003,22,Hasan Ijmal Hameed,Male,B. Tech,2022,44,7,81.00%,67.00%,10,11,8,Yes,Medium,89,Low
+2022-310-095,10/24/2003,22,Maaz ahmad md azam kha,Male,B. Tech,2022,60,8,63.00%,90.00%,7,6,6,Yes,Low,89,Low
+2022-350-010,6/23/2003,22,Charu Pawar,Female,B. Tech,2022,84,8,71.00%,84.00%,10,8,5,No,Medium,70,Low
+2024-501-026,9/14/2003,22,Syed Amaan Abbas,Male,MCA,2024,59,8,70.00%,60.00%,7,6,7,Yes,Medium,75.5,Low
+2022-310-193,09-04-2001,24,Sadaf Naaz,Female,B. Tech,2022,49,8,90.00%,87.00%,10,12,5,Yes,Low,70,Medium
+2024-501-066,03-08-2002,24,Sadaf Gazala,Female,MCA,2024,32,6,82.00%,74.00%,9,10,8,No,Medium,78,Medium
+2022-310-210,3/18/2004,22,Shahrayar siddique,Male,B. Tech,2022,29,6,84.00%,87.00%,8,12,7,Yes,Medium,78,Medium
+2023-208-023,6/14/2002,23,Sadaf Nasim,Female,B. Tech,2023,22,8,66.00%,87.00%,7,9,6,No,Medium,79,Medium
+2024-501-035,6/27/2001,24,Amaan saifi,Male,MCA,2024,85,7,78.00%,69.00%,9,7,8,No,High,68,Medium
+2023-301-078,11/26/2005,20,Mohd anas Liaquati,Male,BCA,2023,52,7,88.00%,98.00%,8,7,6,No,Medium,70,Medium
+2024-582-007,2/25/2003,23,Yukti Sabikhi,Female,M.Sc.,2024,89,8,81.00%,60.00%,9,6,6,No,Low,79,Low
+2022-310-109,1/17/2003,23,Md Kaif,Male,B. Tech,2022,77,7,79.00%,83.00%,10,7,7,Yes,High,73.12,Medium
+2024-501-029,01-05-2002,24,MD AASIF RAZA,Male,MCA,2024,24,8,80.00%,63.00%,9,12,7,No,High,85.3,Medium
+2022-310-174,11/25/2003,22,Nitesh Pandit,Male,B. Tech,2022,24,7,68.00%,97.00%,10,10,5,Yes,Medium,68.4,Low
+2024-501-007,6/17/2000,25,Mohammad Shaan Jairajpuri,Male,MCA,2024,22,6,66.00%,60.00%,9,8,7,Yes,High,77,Low
+2022-310-083,3/18/2004,22,Iqra khan,Female,B. Tech,2022,82,8,60.00%,78.00%,10,6,5,Yes,High,78.18,Medium
+2023-301-069,06-08-2005,20,MOHAMMAD AZAAN,Male,BCA,2023,67,7,96.00%,82.00%,10,8,8,Yes,Low,74,Low
+2022-310-237,03-07-2004,22,Zarqa Gulrez,Female,B. Tech,2022,74,7,84.00%,65.00%,8,11,7,Yes,High,84,Medium
+2022-310-079,10-06-2004,21,ibrahim hussain,Male,B. Tech,2022,72,6,77.00%,66.00%,7,10,8,No,High,68,Low
+2022-310-029,12/30/2004,21,Amaanul Haque,Male,B. Tech,2022,36,8,80.00%,87.00%,10,10,7,Yes,High,73.8,Low
+2023-301-060,8/25/2005,20,Mehak,Female,BCA,2023,95,8,97.00%,86.00%,9,9,8,Yes,Medium,67,Low
+2022-350-039,8/17/2003,22,Sarib Aqil Malik,Male,B. Tech,2022,78,6,83.00%,69.00%,7,12,7,No,Low,78,Low
+2022-310-230,3/29/2005,21,Umer Rehman,Male,B. Tech,2022,82,7,79.00%,71.00%,8,7,6,No,Medium,75,Medium
+2022-310-021,12-04-2002,23,Ahmad Tanzeef,Male,B. Tech,2022,41,7,79.00%,94.00%,9,9,8,Yes,Medium,71.25,Medium
+2022-310-082,6/22/2003,22,Im Kulsum,Female,B. Tech,2022,42,8,65.00%,64.00%,8,9,6,No,High,80.28,Medium
+2022-310-198,03-03-2001,25,Saima siddiqui,Female,B. Tech,2022,31,7,81.00%,87.00%,7,7,5,No,Medium,88,Medium
+2023-301-029,10/17/2004,21,Ayan Ghazi,Male,BCA,2023,51,8,69.00%,74.00%,8,11,7,No,Low,76,Low
+2023-301-010,1/16/2006,20,Alafia Kalim,Female,BCA,2023,98,8,86.00%,75.00%,8,11,8,Yes,Medium,76,Medium
+2023-208-012,5/14/2005,20,Md Kaif Imteyaz,Male,B. Tech,2023,86,6,65.00%,64.00%,10,8,7,Yes,Low,82,Medium
+2024-501-036,3/28/2003,23,Mohammad Hamza,Male,MCA,2024,64,7,73.00%,65.00%,9,11,8,Yes,Medium,70,Medium
+2023-208-024,07-12-2001,24,Saif Khan,Male,B. Tech,2023,46,6,71.00%,94.00%,10,8,6,No,Low,72,Medium
+2024-501-058,09-09-2003,22,Heena Shaikh,Female,MCA,2024,85,6,98.00%,61.00%,8,8,8,No,Low,67.71,Medium
+2023-301-115,9/29/2003,22,Razib salmani,Male,BCA,2023,81,8,61.00%,70.00%,9,8,5,Yes,High,75,Medium
+2023-301-066,9/19/2005,20,MOHAMMAD AMAN ALAM,Male,BCA,2023,59,6,93.00%,79.00%,10,9,5,No,High,75,Medium
+2023-301-098,10/18/2006,19,Mudassir,Male,BCA,2023,79,8,92.00%,72.00%,7,12,7,No,Low,68,Medium
+2023-208-004,11/15/2002,23,Amanullah Ansari,Male,B. Tech,2023,33,6,91.00%,65.00%,9,7,7,No,Medium,70,Medium
+2022-310-199,9/27/2003,22,SAKEENA ZAHEER,Female,B. Tech,2022,47,8,74.00%,80.00%,9,7,6,Yes,High,79,Medium
+2022-310-113,12/24/2001,24,Md Sufiyan,Male,B. Tech,2022,20,7,90.00%,76.00%,8,7,7,Yes,High,81,Low
+2022-350-018,2/23/2005,21,Mehul Mangal,Male,B. Tech,2022,36,6,73.00%,65.00%,8,6,7,No,Medium,84,Low
+2023-301-075,1/19/2006,20,Mohd Aayan,Male,BCA,2023,39,8,85.00%,78.00%,9,12,6,No,Low,70,Low
+2022-310-086,12/26/2002,23,Jatin Sahu,Male,B. Tech,2022,71,7,84.00%,95.00%,9,10,5,No,Low,65,Medium
+2022-310-142,11-08-2004,21,Mohd Arham,Male,B. Tech,2022,59,8,87.00%,96.00%,9,7,8,Yes,High,64,Medium
+2023-301-074,7/20/2004,21,MOHAMMAD SHAVEZ,Male,BCA,2023,50,6,87.00%,73.00%,9,12,7,No,High,75,Low
+2024-557-010,10/16/2002,23,Huda Fatima,Female,M.Tech,2024,41,7,83.00%,91.00%,9,8,8,No,Medium,82.5,Medium
+2022-350-042,05-10-2002,23,Syed Areeb Ahmad,Male,B. Tech,2022,59,7,66.00%,76.00%,7,10,8,Yes,Low,88,Medium
+2024-501-057,08-04-2004,21,Mohammad Amjad,Male,MCA,2024,68,7,95.00%,80.00%,7,11,7,No,Low,81.2,Low
+2024-501-070,12-09-2003,22,Aman khan,Male,MCA,2024,90,6,72.00%,62.00%,9,8,6,Yes,Medium,70,Medium
+2022-310-233,3/25/2004,22,Waleed Anwar,Male,B. Tech,2022,71,7,87.00%,72.00%,10,8,5,No,High,70,Medium
+2022-350-036,1/19/2004,22,Saim,Male,B. Tech,2022,76,8,70.00%,89.00%,9,7,5,No,Low,79.5,Low
+2022-350-023,5/31/2003,22,Mohammed Adil,Male,B. Tech,2022,42,7,80.00%,81.00%,9,10,5,Yes,Medium,80,Low
+2023-301-102,06-08-2005,20,Myra Ali Khan,Female,BCA,2023,80,6,75.00%,76.00%,9,8,6,Yes,Medium,87,Low
+2022-310-015,8/25/2004,21,Adnan Ansari,Male,B. Tech,2022,56,6,74.00%,91.00%,7,10,8,No,Medium,69,Medium
+2022-310-174,11/25/2003,22,Nitesh Pandit,Male,B. Tech,2022,25,8,97.00%,92.00%,9,6,6,No,Low,68,Medium
+2022-310-215,01-08-2003,23,Ms. Sheen Siddiquee,Female,B. Tech,2022,74,7,84.00%,75.00%,10,10,6,Yes,Low,75,Low
+2022-350-014,7/13/2004,21,Iliya Sabat,Female,B. Tech,2022,30,7,72.00%,95.00%,7,6,8,Yes,Low,76,Medium
+2024-501-038,12/18/2002,23,Naaz Abbasi,Female,MCA,2024,96,6,86.00%,86.00%,10,11,6,Yes,Medium,80,Low
+2022-310-211,7/17/2004,21,Shahul Malik,Male,B. Tech,2022,64,8,72.00%,63.00%,9,10,8,No,Medium,80,Medium
+2023-208-021,02-06-2002,24,Nazia Parveen,Female,B. Tech,2023,88,6,92.00%,73.00%,7,9,5,No,High,79,Low
+2022-350-041,5/29/2003,22,Sualeh Rauf Khan,Male,B. Tech,2022,88,6,93.00%,97.00%,10,7,8,Yes,High,84.26,Medium
+2023-208-015,4/29/2002,23,Mohammad Atir Abbasi,Male,B. Tech,2023,88,6,64.00%,86.00%,9,6,8,No,Medium,75,Medium
+2023-208-019,4/13/2002,23,Mohd Asad Siddiqui,Male,B. Tech,2023,36,7,87.00%,90.00%,7,10,8,No,Medium,72,Medium
+2022-350-015,10/26/2002,23,Irbaaz Noor,Male,B. Tech,2022,40,8,64.00%,72.00%,10,11,8,No,Medium,78,Low
+2022-333-003,07-12-2002,23,AMANULLAH KHAN,Male,B. Tech,2022,39,6,76.00%,82.00%,9,10,8,Yes,Medium,81,Medium
+2023-301-115,9/29/2003,22,Razib salmani,Male,BCA,2023,40,8,92.00%,88.00%,9,6,6,No,Low,65,Medium
+2022-310-088,2/18/2003,23,Kashif Ali,Male,B. Tech,2022,34,8,87.00%,80.00%,8,12,5,Yes,Medium,75,Low
+2022-310-117,11-11-2001,24,Mohammad Arsalan,Male,B. Tech,2022,83,7,82.00%,73.00%,9,10,6,No,Low,78,Low
+2023-310-025,2/22/2005,21,ADNAN KHAN,Male,B. Tech,2023,85,6,92.00%,98.00%,9,12,5,No,Low,68,Medium
+2022-350-037,4/30/2001,24,Saami mahmud,Male,B. Tech,2022,78,6,91.00%,64.00%,7,7,8,Yes,Medium,85,Low
+2022-310-131,1/25/2002,24,Mohammad Haseen,Male,B. Tech,2022,62,7,92.00%,69.00%,10,12,5,No,Low,79,Medium
+2023-301-045,07-07-2003,22,Huzaifa khan,Male,BCA,2023,29,8,68.00%,66.00%,7,12,7,No,Low,63,Low
+2023-301-076,11-03-2004,21,Adnan Khan,Male,BCA,2023,69,7,71.00%,91.00%,10,9,7,No,High,79,Medium
+2023-208-013,12/24/2003,22,Md Muzammil Abdin,Male,B. Tech,2023,77,8,88.00%,66.00%,9,6,6,Yes,Low,80,Low
+2022-310-188,03-10-2004,22,RISHIT DHWAJ SINGH,Male,B. Tech,2022,93,8,98.00%,61.00%,7,12,5,Yes,Low,68,Low
+2022-310-145,07-10-2004,21,Mohd Ayaz,Male,B. Tech,2022,39,7,78.00%,92.00%,10,9,6,Yes,High,73,Medium
+2023-301-148,2/15/2005,21,Tallya siddiqui,Female,BCA,2023,93,7,79.00%,91.00%,10,8,7,No,Low,89,Low
+2023-301-141,03-09-2005,21,Shezar kesari,Male,BCA,2023,82,8,73.00%,86.00%,9,9,6,Yes,High,70,Low
+2023-301-045,07-07-2003,22,Huzaifa khan,Male,BCA,2023,42,6,76.00%,84.00%,7,6,8,Yes,Low,63,Medium
+2022-310-153,01-06-2005,21,Mohd Sami Abbasi,Male,B. Tech,2022,86,8,92.00%,97.00%,8,6,6,Yes,Medium,85,Medium
+2022-350-006,08-09-2003,22,Anuja Abraham,Female,B. Tech,2022,82,8,81.00%,84.00%,8,6,6,Yes,Medium,90,Low
+2024-501-011,10/28/2002,23,Sufiya Quadri,Female,MCA,2024,65,8,60.00%,77.00%,8,7,5,No,High,68,Medium
+2024-501-014,07-11-2003,22,Aliya naz,Female,MCA,2024,65,7,77.00%,71.00%,8,6,7,No,High,83,Medium
+2023-301-039,8/20/2006,19,Hamid Raza,Male,BCA,2023,88,8,91.00%,66.00%,7,9,7,No,Medium,69,Medium
+2023-301-125,11-07-2002,23,Sami Ur Rehman,Male,BCA,2023,46,7,65.00%,79.00%,9,12,8,Yes,Medium,75,Medium
+2024-501-017,02-01-2004,22,Iffat Fatma,Female,MCA,2024,67,7,77.00%,67.00%,8,10,6,No,High,74,Low
+2022-310-099,8/16/2004,21,Manya Vasudeva,Female,B. Tech,2022,35,6,73.00%,65.00%,8,9,8,No,Low,85,Medium
+2023-301-114,10/21/2005,20,Qazi Mohammad Amaan,Male,BCA,2023,66,6,61.00%,96.00%,9,12,8,Yes,Low,72,Low
+2023-301-133,11/22/2004,21,Shahbaz Ansari,Male,BCA,2023,91,8,65.00%,63.00%,9,11,6,Yes,High,71.3,Medium
+2022-310-085,2/17/2004,22,Jafar Rahman,Male,B. Tech,2022,78,8,64.00%,61.00%,9,8,8,No,High,79,Medium
+2023-354-033,3/25/2005,21,Sania,Female,B.Sc.,2023,45,8,77.00%,87.00%,9,7,8,Yes,Low,86,Low
+2023-301-122,4/21/2005,20,Sadiq Khan,Male,BCA,2023,74,6,89.00%,75.00%,7,11,8,No,Low,87,Medium
+2022-350-003,7/28/2004,21,Ahmad Abdullah,Male,B. Tech,2022,55,6,74.00%,75.00%,9,11,8,Yes,High,80,Low
+2023-301-129,02-03-2006,20,Saniya Barkat,Female,BCA,2023,76,7,80.00%,89.00%,7,11,7,Yes,High,70,Medium
+2023-301-064,6/22/2004,21,Mohammad yameen,Male,BCA,2023,66,7,70.00%,87.00%,8,10,8,No,Medium,70,Low
+2022-310-056,11/23/2004,21,Chitrak,Male,B. Tech,2022,26,8,73.00%,71.00%,7,10,6,No,High,68,Medium
+2023-301-041,4/30/2003,22,Haseeb Ahmad,Male,BCA,2023,29,6,87.00%,77.00%,7,11,6,Yes,High,70,Medium
+2024-501-063,7/18/2001,24,Maryam Saud,Female,MCA,2024,74,7,91.00%,88.00%,10,8,8,Yes,Low,63,Low
+2022-310-238,5/14/2004,21,Zoya Fatma,Female,B. Tech,2022,99,8,95.00%,81.00%,10,11,5,No,High,85,Medium
+2022-310-070,12/15/2004,21,hammad Javed,Male,B. Tech,2022,88,8,79.00%,83.00%,7,10,7,No,Low,75,Medium
+2023-301-139,10/25/2004,21,SHEEBAN HASAN,Male,BCA,2023,31,6,68.00%,89.00%,8,7,7,No,Medium,73,Low
+2023-208-001,11-04-2002,23,Abhishek Kumar Mishra,Male,B. Tech,2023,55,6,78.00%,86.00%,7,10,5,No,Low,74,Medium
+2023-301-079,10-02-2004,21,Mohd anas saifi,Male,BCA,2023,81,6,93.00%,64.00%,10,11,6,No,High,87,Medium
+2022-310-138,9/22/2002,23,Mohd Maiz,Male,B. Tech,2022,73,8,62.00%,68.00%,7,6,5,Yes,High,67,Low
+2022-310-216,06-03-2002,23,Shehbaz Jameel,Male,B. Tech,2022,91,7,66.00%,88.00%,10,7,5,No,High,69,Medium
+2023-301-049,9/16/2004,21,Jishan Akhtar,Male,BCA,2023,40,6,80.00%,61.00%,10,9,5,Yes,High,76,Low
+2022-310-225,12/27/2003,22,Taha Hammad,Male,B. Tech,2022,59,8,74.00%,74.00%,9,10,6,Yes,Medium,78,Medium
+2022-350-022,08-02-2004,21,Mohammad Waleed Nomani,Male,B. Tech,2022,26,7,83.00%,96.00%,7,8,5,Yes,High,81,Medium
+2022-310-089,04-06-2004,22,Khateeb Ur Rahman,Male,B. Tech,2022,87,8,73.00%,85.00%,7,6,5,No,Medium,80,Low
+2023-208-022,2/27/1999,27,Rameez Raja,Male,B. Tech,2023,71,7,89.00%,90.00%,9,8,5,Yes,Medium,81.5,Low
+2023-301-003,10/28/2005,20,Aateef Ansari,Male,BCA,2023,91,7,93.00%,92.00%,9,8,8,No,High,60,Medium
+2022-310-232,8/29/2002,23,Vaibhav Gupta,Male,B. Tech,2022,64,8,62.00%,73.00%,8,9,8,Yes,Low,72,Medium
+2022-310-235,11-04-2002,23,Zainab,Female,B. Tech,2022,94,7,81.00%,68.00%,10,6,6,Yes,Medium,67,Low
+2024-501-006,9/18/2002,23,Mohammad Saad Khan,Male,MCA,2024,40,6,98.00%,63.00%,10,9,7,Yes,High,87,Low
+2023-208-005,10/25/2001,24,Anas Ansari,Male,B. Tech,2023,76,8,84.00%,83.00%,8,6,8,Yes,Medium,74.75,Medium
+2024-557-001,2/16/2001,25,Irna Masood,Female,M.Tech,2024,86,7,61.00%,62.00%,10,6,8,No,High,81,Low
+2024-501-069,7/16/2004,21,Mohd Nasir,Male,MCA,2024,92,6,78.00%,88.00%,8,10,6,No,Medium,67,Low
+2024-501-050,1/15/2003,23,TAUQUEER AKHTAR,Male,MCA,2024,52,6,95.00%,98.00%,8,6,8,No,Low,67,Low
+2024-501-030,5/15/1998,27,Mohsin Saifi,Male,MCA,2024,28,8,69.00%,72.00%,9,12,5,No,High,76,Medium
+2023-301-033,03-03-2004,22,Bilal Ahmad,Male,BCA,2023,50,8,91.00%,75.00%,9,6,5,No,High,76,Low
+2022-350-005,11-12-2003,22,AMMAR AHMAD KIDWAI,Male,B. Tech,2022,23,8,84.00%,87.00%,8,8,6,No,Low,85.98,Medium
+2023-301-048,12/15/2005,20,JATIN VATS,Male,BCA,2023,50,8,95.00%,76.00%,9,12,8,Yes,Low,64.76,Medium
+2023-301-082,3/31/2005,21,Mohd fahim Farooqui,Male,BCA,2023,89,6,61.00%,83.00%,8,11,6,Yes,High,75,Medium
+2024-501-048,8/23/2003,22,Juvaria Iqrar,Female,MCA,2024,81,8,94.00%,66.00%,9,12,7,Yes,Medium,76,Low
+2024-501-062,8/18/2002,23,Tatheer Alam Warsi,Male,MCA,2024,69,7,71.00%,93.00%,10,11,8,No,High,65,Medium
+2023-301-094,4/17/2006,19,Mohd Zaid,Male,BCA,2023,20,8,90.00%,78.00%,10,7,7,No,High,86.5,Medium
+2022-310-075,10-04-1999,26,Hasan Sabeeh,Male,B. Tech,2022,29,7,94.00%,82.00%,10,8,7,No,High,65,Low
+2022-310-122,8/23/2003,22,Mohammad Ahmad Khan,Male,B. Tech,2022,74,6,69.00%,88.00%,9,12,8,Yes,Low,70,Low
+2022-310-173,12-10-2003,22,Nimir Khan,Male,B. Tech,2022,82,8,79.00%,88.00%,9,10,8,No,Low,75.05,Low
+2023-301-103,5/30/2004,21,Nabeel Shahroz,Male,BCA,2023,23,7,85.00%,66.00%,8,12,7,No,High,66,Medium
+2024-501-032,3/15/2003,23,Suzan Rizvi,Female,MCA,2024,45,7,83.00%,94.00%,7,7,8,Yes,High,79,Low
+2022-310-200,06-07-2003,22,Sameer Khan,Male,B. Tech,2022,21,8,96.00%,91.00%,9,12,5,Yes,High,70,Low
+2023-301-150,03-12-2004,22,TAMIR AHMAD,Male,BCA,2023,31,6,92.00%,88.00%,10,7,6,Yes,Low,79,Medium
+2021-350-017,7/19/2003,22,Jed khan,Male,B. Tech,2021,45,8,74.00%,84.00%,10,12,5,No,Medium,70,Low
+2022-310-208,5/30/2004,21,Shahbaj Ahmad,Male,B. Tech,2022,56,6,77.00%,97.00%,8,7,5,No,Medium,87,Low
+2022-310-036,10/29/2004,21,Ansh Dundy,Male,B. Tech,2022,97,7,88.00%,74.00%,10,12,8,Yes,Medium,70,Medium
+2024-501-019,2/20/2002,24,Aditya Raj Chauhan,Male,MCA,2024,100,7,68.00%,73.00%,8,7,7,No,Medium,87.8,Medium
+2022-310-108,8/24/2004,21,MD FAISAL,Male,B. Tech,2022,99,7,73.00%,70.00%,9,10,8,No,Medium,65,Medium
+2023-301-015,11-08-2005,20,Amaan zaki,Male,BCA,2023,91,6,90.00%,95.00%,10,10,5,Yes,Low,66,Low
+2022-310-107,10/30/2002,23,MD FAHAD KHAN,Male,B. Tech,2022,30,6,79.00%,98.00%,10,10,5,Yes,Medium,67.83,Low
+2023-301-032,10/17/2004,21,Mr. Bazil Ansari,Male,BCA,2023,65,6,76.00%,87.00%,7,9,6,Yes,Medium,61,Medium
+2022-333-008,5/19/2004,21,Janis Khan,Female,B. Tech,2022,93,8,73.00%,73.00%,10,7,8,Yes,High,87,Medium
+2022-310-091,6/18/2004,21,Kirti Sharma,Female,B. Tech,2022,81,6,88.00%,71.00%,9,10,6,No,Medium,77,Low
+2022-310-213,8/22/2003,22,Shantanu Joshi,Male,B. Tech,2022,81,6,88.00%,81.00%,9,7,5,Yes,High,75,Medium
+2022-333-009,7/16/2004,21,Kavita Singh,Female,B. Tech,2022,52,6,96.00%,75.00%,8,10,6,No,High,77,Low
+2022-310-121,12/26/2003,22,Mohammad Umar,Male,B. Tech,2022,88,8,73.00%,90.00%,10,7,8,Yes,Medium,70,Medium
+2022-333-018,02-07-2002,24,Zeenat Khan,Female,B. Tech,2022,51,7,93.00%,67.00%,9,6,6,Yes,Medium,65,Low
+2022-333-007,07-01-2004,21,Hazik Rashid,Male,B. Tech,2022,38,8,80.00%,74.00%,10,8,5,No,High,82,Low
+2022-333-015,8/20/2002,23,Umer ur rehman,Male,B. Tech,2022,46,8,86.00%,89.00%,9,10,6,Yes,High,82,Low
+2022-310-178,7/24/2004,21,Raghav khurana,Male,B. Tech,2022,63,7,81.00%,78.00%,7,7,7,Yes,High,67,Low
+2023-301-011,8/21/2005,20,Aleena Mehak,Female,BCA,2023,72,7,83.00%,72.00%,8,9,7,No,Medium,84,Low
+2022-310-037,7/13/2003,22,Aqib baig,Male,B. Tech,2022,39,8,75.00%,71.00%,9,12,6,No,Medium,70,Medium
+2024-501-066,03-08-2002,24,Sadaf Gazala,Female,MCA,2024,42,8,69.00%,92.00%,9,11,6,Yes,High,78,Low
+2022-333-006,03-07-2004,22,HAMZA SHAMSI,Male,B. Tech,2022,76,8,74.00%,92.00%,9,6,8,No,Medium,75,Medium
+2022-310-148,11/17/2002,23,Mohd Ismail,Male,B. Tech,2022,66,8,88.00%,74.00%,9,11,6,Yes,Medium,75,Medium
+2022-310-228,01-06-2005,21,Umaid Zakaria,Male,B. Tech,2022,90,7,65.00%,65.00%,7,10,6,Yes,High,70,Medium
+2022-333-011,08-09-2004,21,Onkar Singh Bhola,Male,B. Tech,2022,56,8,84.00%,81.00%,9,10,7,No,Medium,77,Low
+2022-310-218,10/15/2003,22,Sufia Arshad,Female,B. Tech,2022,43,7,80.00%,79.00%,7,6,7,No,Low,85,Low
+2023-301050,2/16/2005,21,KAIF AHMAD,Male,BBA,2023,84,7,74.00%,65.00%,10,8,5,No,Low,65,Low
+2023-301-067,08-03-2005,20,Mohammad Ashaz Parvez,Male,BCA,2023,88,6,84.00%,64.00%,7,11,8,Yes,Low,86,Low
+2024-501-010,03-06-2003,23,Sahil sameer,Male,MCA,2024,42,6,92.00%,89.00%,7,10,5,Yes,High,65,Low
+2023-301-046,05-02-2003,22,Huzaifa Salik,Male,BCA,2023,73,7,74.00%,98.00%,7,6,5,Yes,High,72,Medium
+2023-301-017,11/14/2002,23,Amanullah Siddiqui,Male,BCA,2023,73,6,63.00%,85.00%,9,11,6,Yes,Low,62,Low
+2024-550-007,02-05-2000,26,Md Saquib Alam,Male,M.Tech,2024,44,7,88.00%,66.00%,8,6,8,Yes,Low,69,Low
+2024-557-014,05-03-1996,29,Fahad,Male,M.Tech,2024,63,7,62.00%,78.00%,10,8,5,Yes,High,75.96,Low
+2024-550-005,01-11-1999,27,Faizeen Saba Naz,Female,M.Tech,2024,68,7,80.00%,69.00%,8,9,5,Yes,Medium,70,Low
+2023-301-053,10/25/2005,20,Maaz Saleem,Male,BCA,2023,29,6,82.00%,65.00%,9,9,6,No,High,76.5,Low
